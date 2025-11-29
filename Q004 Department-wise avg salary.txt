@@ -1,0 +1,8 @@
+Department      : Average Salary INR
+Finance         : 940411.74  INR
+HR              : 743853.56  INR
+IT              : 1129858.15 INR
+Marketing       : 769936.15  INR
+Operations      : 754626.25  INR
+R&D             : 800377.16  INR
+Sales           : 792957.86  INR

@@ -1,0 +1,30 @@
+Job_Title                      : Average Salary INR
+Account Manager                : 799373.73  INR
+Accountant                     : 650076.48  INR
+Brand Manager                  : 803127.79  INR
+Business Development Manager   : 1252016.23 INR
+CFO                            : 795015.87  INR
+CTO                            : 801402.75  INR
+Content Strategist             : 800760.03  INR
+Data Analyst                   : 800996.38  INR
+DevOps Engineer                : 799949.18  INR
+Finance Manager                : 1743241.53 INR
+Financial Analyst              : 1051522.90 INR
+HR Director                    : 800694.44  INR
+HR Executive                   : 550548.86  INR
+HR Manager                     : 1252401.91 INR
+IT Manager                     : 2098155.78 INR
+Innovation Manager             : 801870.10  INR
+Lab Technician                 : 800181.47  INR
+Logistics Coordinator          : 649631.73  INR
+Marketing Executive            : 798780.40  INR
+Operations Director            : 798298.09  INR
+Operations Executive           : 800350.92  INR
+Product Developer              : 798652.26  INR
+Research Scientist             : 801314.88  INR
+SEO Specialist                 : 700456.34  INR
+Sales Director                 : 799069.37  INR
+Sales Executive                : 650237.75  INR
+Software Engineer              : 1199260.84 INR
+Supply Chain Manager           : 798168.55  INR
+Talent Acquisition Specialist  : 801422.24  INR

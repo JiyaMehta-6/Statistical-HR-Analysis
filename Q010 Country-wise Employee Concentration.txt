@@ -1,0 +1,245 @@
+The country that has maximum employees is Congo with 16286 employees.
+Country                        : Employee Concentration 
+Afghanistan                    : 8044      
+Albania                        : 8135      
+Algeria                        : 8017      
+American Samoa                 : 8262      
+Andorra                        : 8124      
+Angola                         : 8158      
+Anguilla                       : 8130      
+Antarctica (the territory South of 60 deg S) : 8164      
+Antigua and Barbuda            : 8169      
+Argentina                      : 8151      
+Armenia                        : 8254      
+Aruba                          : 8163      
+Australia                      : 8221      
+Austria                        : 8221      
+Azerbaijan                     : 8144      
+Bahamas                        : 8086      
+Bahrain                        : 8250      
+Bangladesh                     : 8280      
+Barbados                       : 8081      
+Belarus                        : 8097      
+Belgium                        : 8240      
+Belize                         : 8227      
+Benin                          : 8204      
+Bermuda                        : 8079      
+Bhutan                         : 7971      
+Bolivia                        : 8128      
+Bosnia and Herzegovina         : 8186      
+Botswana                       : 8022      
+Bouvet Island (Bouvetoya)      : 8254      
+Brazil                         : 8194      
+British Indian Ocean Territory (Chagos Archipelago) : 8232      
+British Virgin Islands         : 8373      
+Brunei Darussalam              : 8183      
+Bulgaria                       : 8259      
+Burkina Faso                   : 8240      
+Burundi                        : 8256      
+Cambodia                       : 8215      
+Cameroon                       : 8175      
+Canada                         : 8155      
+Cape Verde                     : 8241      
+Cayman Islands                 : 8170      
+Central African Republic       : 8016      
+Chad                           : 8140      
+Chile                          : 8114      
+China                          : 8197      
+Christmas Island               : 8110      
+Cocos (Keeling) Islands        : 8315      
+Colombia                       : 8113      
+Comoros                        : 8120      
+Congo                          : 16286     
+Cook Islands                   : 7990      
+Costa Rica                     : 8277      
+Cote d'Ivoire                  : 8126      
+Croatia                        : 8210      
+Cuba                           : 8287      
+Cyprus                         : 8227      
+Czech Republic                 : 8220      
+Denmark                        : 8066      
+Djibouti                       : 8211      
+Dominica                       : 8151      
+Dominican Republic             : 8179      
+Ecuador                        : 8099      
+Egypt                          : 8263      
+El Salvador                    : 8254      
+Equatorial Guinea              : 8107      
+Eritrea                        : 8149      
+Estonia                        : 8190      
+Ethiopia                       : 8248      
+Falkland Islands (Malvinas)    : 8237      
+Faroe Islands                  : 8176      
+Fiji                           : 8224      
+Finland                        : 8199      
+France                         : 8186      
+French Guiana                  : 8097      
+French Polynesia               : 8199      
+French Southern Territories    : 8118      
+Gabon                          : 8089      
+Gambia                         : 8085      
+Georgia                        : 8218      
+Germany                        : 8085      
+Ghana                          : 8130      
+Gibraltar                      : 8279      
+Greece                         : 8296      
+Greenland                      : 8179      
+Grenada                        : 8258      
+Guadeloupe                     : 8091      
+Guam                           : 8217      
+Guatemala                      : 8060      
+Guernsey                       : 8101      
+Guinea                         : 8128      
+Guinea-Bissau                  : 7983      
+Guyana                         : 8066      
+Haiti                          : 8193      
+Heard Island and McDonald Islands : 8037      
+Holy See (Vatican City State)  : 8165      
+Honduras                       : 8242      
+Hong Kong                      : 8141      
+Hungary                        : 8090      
+Iceland                        : 8371      
+India                          : 8049      
+Indonesia                      : 7983      
+Iran                           : 8219      
+Iraq                           : 8211      
+Ireland                        : 8089      
+Isle of Man                    : 8146      
+Israel                         : 8093      
+Italy                          : 8314      
+Jamaica                        : 8180      
+Japan                          : 8123      
+Jersey                         : 8223      
+Jordan                         : 8160      
+Kazakhstan                     : 7973      
+Kenya                          : 8200      
+Kiribati                       : 8181      
+Korea                          : 16285     
+Kuwait                         : 8089      
+Kyrgyz Republic                : 8016      
+Lao People's Democratic Republic : 8069      
+Latvia                         : 8218      
+Lebanon                        : 8082      
+Lesotho                        : 8340      
+Liberia                        : 8154      
+Libyan Arab Jamahiriya         : 8308      
+Liechtenstein                  : 8002      
+Lithuania                      : 8048      
+Luxembourg                     : 8154      
+Macao                          : 8173      
+Madagascar                     : 8081      
+Malawi                         : 8049      
+Malaysia                       : 8323      
+Maldives                       : 8125      
+Mali                           : 8105      
+Malta                          : 8165      
+Marshall Islands               : 8137      
+Martinique                     : 8107      
+Mauritania                     : 8303      
+Mauritius                      : 8102      
+Mayotte                        : 8094      
+Mexico                         : 8177      
+Micronesia                     : 8282      
+Moldova                        : 8286      
+Monaco                         : 8321      
+Mongolia                       : 8064      
+Montenegro                     : 7972      
+Montserrat                     : 8264      
+Morocco                        : 8075      
+Mozambique                     : 8141      
+Myanmar                        : 8107      
+Namibia                        : 8182      
+Nauru                          : 8181      
+Nepal                          : 8236      
+Netherlands                    : 8217      
+Netherlands Antilles           : 8248      
+New Caledonia                  : 8306      
+New Zealand                    : 8347      
+Nicaragua                      : 8118      
+Niger                          : 8099      
+Nigeria                        : 8117      
+Niue                           : 8106      
+Norfolk Island                 : 8151      
+North Macedonia                : 8157      
+Northern Mariana Islands       : 8258      
+Norway                         : 8224      
+Oman                           : 8136      
+Pakistan                       : 8280      
+Palau                          : 8071      
+Palestinian Territory          : 7895      
+Panama                         : 8208      
+Papua New Guinea               : 8113      
+Paraguay                       : 8199      
+Peru                           : 8327      
+Philippines                    : 8281      
+Pitcairn Islands               : 8137      
+Poland                         : 8041      
+Portugal                       : 8239      
+Puerto Rico                    : 8241      
+Qatar                          : 8176      
+Reunion                        : 8140      
+Romania                        : 8096      
+Russian Federation             : 8248      
+Rwanda                         : 8190      
+Saint Barthelemy               : 8124      
+Saint Helena                   : 8013      
+Saint Kitts and Nevis          : 8185      
+Saint Lucia                    : 8253      
+Saint Martin                   : 8145      
+Saint Pierre and Miquelon      : 8152      
+Saint Vincent and the Grenadines : 8141      
+Samoa                          : 8243      
+San Marino                     : 8205      
+Sao Tome and Principe          : 8100      
+Saudi Arabia                   : 8304      
+Senegal                        : 8050      
+Serbia                         : 8144      
+Seychelles                     : 8118      
+Sierra Leone                   : 8206      
+Singapore                      : 8083      
+Slovakia (Slovak Republic)     : 8167      
+Slovenia                       : 8049      
+Solomon Islands                : 8244      
+Somalia                        : 8231      
+South Africa                   : 8219      
+South Georgia and the South Sandwich Islands : 8178      
+Spain                          : 8096      
+Sri Lanka                      : 8409      
+Sudan                          : 8050      
+Suriname                       : 8169      
+Svalbard & Jan Mayen Islands   : 8054      
+Swaziland                      : 8086      
+Sweden                         : 8299      
+Switzerland                    : 8391      
+Syrian Arab Republic           : 8098      
+Taiwan                         : 8016      
+Tajikistan                     : 8166      
+Tanzania                       : 8044      
+Thailand                       : 8167      
+Timor-Leste                    : 8043      
+Togo                           : 8044      
+Tokelau                        : 8319      
+Tonga                          : 8239      
+Trinidad and Tobago            : 8122      
+Tunisia                        : 8273      
+Turkey                         : 8092      
+Turkmenistan                   : 8188      
+Turks and Caicos Islands       : 8158      
+Tuvalu                         : 8205      
+Uganda                         : 8158      
+Ukraine                        : 8223      
+United Arab Emirates           : 8201      
+United Kingdom                 : 8251      
+United States Minor Outlying Islands : 8079      
+United States Virgin Islands   : 8090      
+United States of America       : 8031      
+Uruguay                        : 8146      
+Uzbekistan                     : 8052      
+Vanuatu                        : 8278      
+Venezuela                      : 8092      
+Vietnam                        : 8215      
+Wallis and Futuna              : 8189      
+Western Sahara                 : 8312      
+Yemen                          : 8099      
+Zambia                         : 8104      
+Zimbabwe                       : 8111      

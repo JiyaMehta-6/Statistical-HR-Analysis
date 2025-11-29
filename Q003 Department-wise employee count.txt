@@ -1,0 +1,8 @@
+Department      : Number of Employees
+Finance         : 199873    
+HR              : 159119    
+IT              : 601042    
+Marketing       : 240081    
+Operations      : 300095    
+R&D             : 99759     
+Sales           : 400031    

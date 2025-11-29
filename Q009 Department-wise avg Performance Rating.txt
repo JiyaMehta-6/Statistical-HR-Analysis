@@ -1,0 +1,8 @@
+Department      : Average Performance Rating INR
+Finance         : 3.00      
+HR              : 3.00      
+IT              : 3.00      
+Marketing       : 3.00      
+Operations      : 3.00      
+R&D             : 3.00      
+Sales           : 3.01      

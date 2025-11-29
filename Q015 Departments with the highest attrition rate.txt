@@ -1,0 +1,8 @@
+Department  Attrition Rate (%)
+   Finance           20.131784
+       R&D           19.967121
+        HR           19.944821
+        IT           19.940703
+     Sales           19.929705
+ Marketing           19.907031
+Operations           19.792732

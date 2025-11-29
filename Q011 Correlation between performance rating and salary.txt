@@ -1,0 +1,2 @@
+The correlation between performance rating and salary is: -0.00
+There is a negative correlation: as performance rating increases, salary tends to decrease.

@@ -1,0 +1,9 @@
+Salary Summary:
+                    mean    median            std
+Work_Mode                                        
+On-site    896835.945792  811154.0  402594.197064
+Remote     896965.326373  810814.0  402634.658379
+
+U-statistic: 480263238784.50
+P-value    : 0.83
+There is no significant difference in salaries between Remote and On-site employees.
