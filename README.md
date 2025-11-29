@@ -17,10 +17,15 @@ All outputs (charts + text files) are saved automatically.
 📁 Project Structure
 📦 HR-Data-Analysis
  ┣ 📜 main.py
+ 
  ┣ 📜 HR_Data_MNC_Data Science Lovers.csv
+ 
  ┣ 📊 *.png     → Saved visualizations
+ 
  ┣ 📄 *.txt     → Saved text reports
+ 
  ┣ 📜 HR_Data_MNC_subset_200.csv (auto-generated sample)
+ 
  ┗ 📘 README.md
 
 🔧 Technologies Used
@@ -77,3 +82,4 @@ Academic projects / assignments
 Data science practice
 Exploratory data analysis templates
 Corporate HR dashboards (initial stage)
+
