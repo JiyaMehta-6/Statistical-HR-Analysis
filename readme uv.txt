@@ -42,7 +42,9 @@ uv run .\.venv\Scripts\autopytoexe.exe
 uv add pylint
 uv add pandas
 uv add seaborn
+uv add matplotlib
 uv add pyside6
+
 
 
 
